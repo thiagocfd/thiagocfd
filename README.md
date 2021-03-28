@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/thiago-dourado-b0095186/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Dourado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-schell-dourado/)](https://www.linkedin.com/in/thiago-dourado-b0095186/) 
 [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:thiagocfdourado@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
