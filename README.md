@@ -1,13 +1,10 @@
 ### Hi there 👋
 # Thiago Dourado 
 
-
-Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Dourado-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-schell-dourado/)](https://www.linkedin.com/in/thiago-dourado-b0095186/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiagocfdourado@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagocfdourado@gmail.com)](mailto:thiagocfdourado@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
-
-Passionate about education and changing people's lives through programming. More than 200,000 people have already undergone one of my trainings.
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+I have been passionate about software development since the moment I typed my first line of code. I am currently majoring in Information Systems at UNIME faculty, where I am also part of the Software Development Center.
+I have a great affinity with the back-end and I have been studying and taking courses in C #, .NET and Database (SQL), but I also pay attention to technologies such as HTML, CSS and JavaScript.
+I am a multidisciplinary person and I am always looking for new knowledge. I have 10 years of experience as a Physiotherapist and 2 as a Civil Engineer, which today gives me a greater perception of software modeling.
+I seek to integrate a development team where I can absorb even more knowledge and be able to contribute to different projects.
